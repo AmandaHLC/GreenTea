@@ -1,11 +1,10 @@
-# -*- coding: utf-8 -*-
 """Topics.ipynb
 設計一個函數，輸入為數字，輸出則為*符號為輸入數字邊長的空心正三角形。
 輸入: 3
 輸出：
-    *
-   * *
-  * * *  
+      *
+     * *
+    * * *  
 """
 
 def print_hollow_triangle(size):
